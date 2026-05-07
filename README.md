@@ -1,7 +1,7 @@
 # 🚀 Fullstack Engineering: William Tran
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=William%20Tran&fontSize=80&animation=fadeIn&desc=Backend%20Expertise%20%E2%9E%A1%EF%B8%8F%20Fullstack%20Innovation&descAlignY=70&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=William%20Tran&fontSize=70&fontAlignY=40&desc=Fullstack%20Engineer%20%7C%20React%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=65&descSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -75,11 +75,6 @@ I am a **Software Engineer** with a deep-rooted foundation in Backend systems (G
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamtrandev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamtrandev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=williamtrandev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
